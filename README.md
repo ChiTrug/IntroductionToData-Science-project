@@ -1,4 +1,4 @@
-# IntroductionToData-Science-project
+# Air-Quality-Classifier
 Final_Project-IntroductionToDataScience
 
 Thành viên trong nhóm 11:
